@@ -1,0 +1,24 @@
+h3{
+    text-align: center;
+    font-family: '標楷體';
+    }
+
+.ball {
+    text-align: center;
+    background: lightgreen;
+    border-radius: 50%;
+    width: 16px;
+    padding: 16px;
+    display: inline-block;
+    margin: 5px;
+}
+
+.ball1 {
+    text-align: center;
+    background: rgb(245, 74, 22);
+    border-radius: 50%;
+    width: 16px;
+    padding: 16px;
+    display: inline-block;
+    margin: 5px;
+}
